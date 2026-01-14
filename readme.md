@@ -205,7 +205,7 @@ In the `other_scripts/` folder you will find examples of MPI operations:
 
 ## 📝 System Requirements
 
-- Python 3.12
+- [Python 3.12](https://www.python.org/downloads/release/python-31210/)
 - [Microsoft MPI for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=100593)
 - Network access between cluster nodes
 - Permissions to execute remote processes
